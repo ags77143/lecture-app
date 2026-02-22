@@ -1,5 +1,0 @@
-streamlit
-youtube-transcript-api
-groq
-yt-dlp
-openai-whisper
